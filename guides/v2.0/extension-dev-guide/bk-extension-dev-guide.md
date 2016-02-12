@@ -12,7 +12,7 @@ redirect_from: /guides/v1.0/extension-dev-guide/bk-extension-dev-guide.html
 
 ##{{page.menu_title}}
 
-This guide contains information for developers who want to extend, or customize, any of the components in the Magento application. That includes building a new component from to extend Magento functionality. This guide is also for those who want to create components for Magento Marketplace, although it does not cover the publishing process.
+This guide contains information for developers who want to extend, or customize, any of the components in the Magento application. That includes building a new component to extend Magento functionality. This guide is also for those who want to create components for Magento Marketplace, although it does not cover the publishing process.
 
 ##Magento components
 
